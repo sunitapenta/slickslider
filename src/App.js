@@ -106,7 +106,7 @@ export default class SimpleSlider extends Component {
         <h2> Multiple Item</h2>
         <Slider className="multipleslider" {...slider}>
           <div>
-            <h3><img src={('./images/pv-sindhu.jpg')} alt="slider" /></h3>
+            <h3><img src={('/images/pv-sindhu.jpg')} alt="slider" /></h3>
           </div>
           <div>
             <h3><img src={('./images/tracker-img1.png')} alt="slider" /></h3>
